@@ -1,0 +1,10 @@
+123,Anne,true,Tennis
+202,Fred,true
+313,Siew Lim,true,Tennis,Squash
+414,Ryan,true,Squash
+515,David Bayley,false
+888,Matthew,running
+44j,Aloha,True,Badminton
+313,Alex,false,SQUASH
+
+999,Alex,true,SQUASH,      badMINTON,       teNNiS,
