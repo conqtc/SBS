@@ -1,2 +1,4 @@
 # SBS
-Sport Booking System, Swinburne project for Object Oriented Programming subject with Java.
+Sport Booking System, a demonstration using Java and Swing
+
+![screenshot](https://raw.githubusercontent.com/conqtc/SBS/master/screenshot.png)
